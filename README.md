@@ -3,7 +3,7 @@
 ##  Project Overview
 Several areas of AtliQ Hardwres' company, including executive management, marketing, sales, supply chain, and finance, are to be streamlined and optimized through this initiative. The following lists the main goals and noteworthy accomplishments for each perspective:
 
-### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNzk5OTY0ZmUtYWJiYy00YjA3LWJkODktZTcyNmIxNjcyZDI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNDNhNzljZWYtMWZmYS00YTJkLTgwOTEtZGQ5NmQ2NzEwMzhjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Finance View
 
 ### Objectives
